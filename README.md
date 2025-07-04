@@ -1,18 +1,18 @@
 <!-- Profile README for NishchithGowda -->
 
-<h1 align="center">Hi there 馃憢, I'm Nishchith Gowda</h1>
+<h1 align="center">Hi there, I'm Nishchith Gowda</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NishchithGowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-馃帗 **Engineering Student**  
-馃尡 Passionate about learning and building cool stuff with code!
+**Engineering Student**  
+ Passionate about learning and building cool stuff with code!
 
 ---
 
-**馃敡 Skills & Tools**
+* Skills & Tools**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@
 
 
 
-### 馃搱 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NishchithGowda&show_icons=true&theme=tokyonight" alt="NishchithGowda's GitHub stats" />
@@ -43,7 +43,7 @@
 
 ---
 
-**馃弳 GitHub Trophies**
+** GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NishchithGowda&theme=tokyonight" alt="NishchithGowda's GitHub Trophies"/>
@@ -51,11 +51,11 @@
 
 ---
 
-## 馃摣 Connect with me
+##  Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-@_nishchith_gowda_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nishchith_gowda_)
 [![Gmail](https://img.shields.io/badge/Gmail-gamingnishchith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamingnishchith@gmail.com)
 
 ---
 
-*Thanks for stopping by! 馃殌*
+*Thanks for stopping by! *
