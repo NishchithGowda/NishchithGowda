@@ -53,7 +53,7 @@
 
 ## 📫 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@_nishchith_gowda_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nishchith_gowda_)
+[![Instagram](https://img.shields.io/badge/Instagram-@_nishchith._.gowda_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nishchith._.gowda_)
 [![Gmail](https://img.shields.io/badge/Gmail-gamingnishchith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamingnishchith@gmail.com)
 
 ---
