@@ -1,13 +1,61 @@
-- 👋 Hi, I’m @NishchithGowda
--  followed by @Mithun50 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate with              anybody...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Profile README for NishchithGowda -->
 
-<!---
-NishchithGowda/NishchithGowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there 馃憢, I'm Nishchith Gowda</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NishchithGowda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+---
+
+馃帗 **Engineering Student**  
+馃尡 Passionate about learning and building cool stuff with code!
+
+---
+
+**馃敡 Skills & Tools**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-772953?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-Linux_Terminal-black?style=for-the-badge&logo=termux&logoColor=white)
+
+
+---
+
+
+
+### 馃搱 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NishchithGowda&show_icons=true&theme=tokyonight" alt="NishchithGowda's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishchithGowda&theme=tokyonight" alt="NishchithGowda's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchithGowda&langs_count=8&layout=compact&&theme=tokyonight" alt="NishchithGowda's used languages" />
+</p>
+
+---
+
+**馃弳 GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NishchithGowda&theme=tokyonight" alt="NishchithGowda's GitHub Trophies"/>
+</p>
+
+---
+
+## 馃摣 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-@_nishchith_gowda_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nishchith_gowda_)
+[![Gmail](https://img.shields.io/badge/Gmail-gamingnishchith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamingnishchith@gmail.com)
+
+---
+
+*Thanks for stopping by! 馃殌*
