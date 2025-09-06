@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm _nishchith._.gowda_</h1>
 
-<h1 align="center">I'm from AIEMS college bidadi</h1>
+<h1 align="center+small size">I'm from AIEMS college bidadi</h1>
 
 <h3 align="center">🚀 1st Year Engineering Student | Free Fire player</h3>
 <p align="center">
