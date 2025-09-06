@@ -1,8 +1,8 @@
 <!-- Profile README for NishchithGowda -->
 
-<h1 align="center">Hi 👋, I'm Nishchith gowda</h1>
+<h1 align="center">Hi 👋, I'm _nishchith._.gowda_</h1>
 
-<h3 align="center">🚀 1st Year Engineering Student | Python learning</h3>
+<h3 align="center">🚀 1st Year Engineering Student | Free Fire player</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Nishchith+gowda;Engineer+in+progress...;Python+Learner+%F0%9F%90%8D;Let's+build+something+cool+!" alt="Typing SVG" />
 </p>
@@ -16,7 +16,8 @@
 ---
 
 🎓 **Engineering Student**  
-🌱 Passionate about learning and building cool stuff with code!
+🌱 Passionate about learning and building cool stuff with code and
+Create our own crafts to trend!
 
 ---
 
