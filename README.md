@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 1st Year Engineering Student | Free Fire player</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Nishchith+gowda;Engineer+in+progress...;Python+Learner+%F0%9F%90%8D;Let's+build+something+cool+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Nishchith+gowda;Engineer+in+progress...;Map+creator+%F0%9F%90%8D;Let's+build+something+cool+with+Craft area's!" alt="Typing SVG" />
 </p>
 
 ---
@@ -67,4 +67,6 @@ Create our own crafts to trend!
 
 ---
 
-*Thanks for stopping by! 🚀*
+*Thanks for visiting my profile! 🚀*
+
+ Rai star-
