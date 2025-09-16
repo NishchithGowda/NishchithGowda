@@ -64,8 +64,11 @@ Create our own crafts to trend!
 
 ## 📫 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@_nishchith._.gowda_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nishchith._.gowda_)
-[![Gmail](https://img.shields.io/badge/Gmail-gamingnishchith@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamingnishchith@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nishchith._.gowda_/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Nishchithgowda)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%231ED760.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917483101678).
 
 ---
 
